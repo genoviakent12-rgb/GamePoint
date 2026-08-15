@@ -112,6 +112,7 @@ GamePoint follows a client-server architecture:
 | Spring Data JPA | Database interaction |
 | Hibernate | ORM framework |
 | PostgreSQL | Relational database |
+| Firebase/FireStore | Authentication |
 | Maven | Dependency management |
 
 ---
