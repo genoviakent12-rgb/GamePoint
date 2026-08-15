@@ -304,7 +304,6 @@ https://docs.google.com/document/d/1hWY4cykujLEIEq4gKx8ZRyDWc7g4vQOC3u3OvMgOL5o/
 
 Planned improvements include:
 
-- User authentication and authorization
 - Player profiles
 - Profile pictures
 - Real-time chat functionality
