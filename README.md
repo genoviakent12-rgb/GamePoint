@@ -18,8 +18,13 @@ GamePoint aims to solve this problem by providing a centralized platform where u
 - Search for sports venues using location-based services
 - View game details including time, venue, difficulty, and player availability
 
----
+--- 
 
+# Application Screenshots - Documentation
+
+https://docs.google.com/document/d/1hWY4cykujLEIEq4gKx8ZRyDWc7g4vQOC3u3OvMgOL5o/edit?usp=sharing
+
+---
 #  Key Features
 
 ## Game Management
@@ -290,13 +295,6 @@ Example:
 node_modules/
 target/
 ```
-
----
-
-# Application Screenshots - Documentation
-
-https://docs.google.com/document/d/1hWY4cykujLEIEq4gKx8ZRyDWc7g4vQOC3u3OvMgOL5o/edit?usp=sharing
-[Uploading Game Point User Interface.pdf…]()
 
 ---
 
