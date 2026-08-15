@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-native-community/slider": "^5.2.0",
+    "react-native-number-please": "^1.0.5",
+    "react-native-numberpicker": "^0.0.5"
+  }
+}
