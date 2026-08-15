@@ -1,4 +1,4 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-08-15 at 20 12 58" src="https://github.com/user-attachments/assets/89ff2ef5-9e51-4ee9-9d96-0e377fb6ae7a" /># GamePoint 
+GamePoint 
 
 A mobile sports community platform that enables users to discover, create, and participate in local sports activities.
 
