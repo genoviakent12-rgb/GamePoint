@@ -82,7 +82,7 @@ GamePoint follows a client-server architecture:
                           │
                  ┌────────▼─────────┐
                  │   PostgreSQL     │
-                 │    Database     │
+                 │    Database      │
                  └──────────────────┘
 ```
 
