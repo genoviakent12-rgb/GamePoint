@@ -7,7 +7,9 @@ import { GooglePlacesAutocomplete } from "react-native-google-places-autocomplet
 import { Colors } from "../../app-example/constants/theme";
 import Constants from "expo-constants";
 
-const GOOGLE_API_KEY = Constants.expoConfig.extra.googleApiKey;
+const GOOGLE_API_KEY = Constants.expoConfig?.extra?.googleApiKey;
+
+console.log("Search API Key:", GOOGLE_API_KEY);
 
 export default function SearchBar({ 
   setSelectedVenue, 
